@@ -1,0 +1,22 @@
+/* Named colors — simple and readable */
+.named {
+    color: red;
+    background-color: white;
+}
+
+/* Hex codes — most common in professional work */
+.hex-example {
+    color: #FF5733;          /* a warm orange-red */
+    background-color: #F0F0F0; /* light gray */
+}
+
+/* RGB — specify red, green, blue values (0-255 each) */
+.rgb-example {
+    color: rgb(0, 102, 0);   /* dark green */
+    background-color: rgb(255, 255, 255); /* white */
+}
+
+/* RGBA — RGB with transparency (alpha: 0 = invisible, 1 = solid) */
+.rgba-example {
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+}
