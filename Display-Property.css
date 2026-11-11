@@ -1,0 +1,18 @@
+/* styles.css */
+.inline-example {
+    display: inline;       /* sits on the same line, ignores width/height */
+}
+
+.block-example {
+    display: block;        /* takes full width, starts new line */
+}
+
+.inline-block-example {
+    display: inline-block; /* sits on same line but respects width/height */
+    width: 150px;
+    height: 50px;
+}
+
+.hidden {
+    display: none;         /* invisible, takes no space */
+}
