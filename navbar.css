@@ -9,6 +9,11 @@ body {
     color: #333333;
 }
 
+/* you put the flexbox properties in the 
+.navbar class to make the navigation bar a flex container. 
+This allows the brand and links to be aligned horizontally and spaced appropriately.
+The justify-content property is set to space-between to push the brand to the left and
+the links to the right, while align-items is set to center to vertically center the items within the navbar. */
 .navbar {
     display: flex;
     justify-content: space-between;
