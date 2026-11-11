@@ -1,0 +1,16 @@
+/* styles.css */
+.box-demo {
+    /* Content is whatever is inside the div */
+    width: 300px;
+
+    /* Padding — space inside the box, around the content */
+    padding: 20px;
+
+    /* Border — the edge of the box */
+    border: 2px solid #006600;
+
+    /* Margin — space outside the box, pushing other elements away */
+    margin: 30px;
+
+    background-color: #F5F5F5;
+}
