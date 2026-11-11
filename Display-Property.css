@@ -1,4 +1,3 @@
-/* styles.css */
 .inline-example {
     display: inline;       /* sits on the same line, ignores width/height */
 }
@@ -9,7 +8,7 @@
 
 .inline-block-example {
     display: inline-block; /* sits on same line but respects width/height */
-    width: 150px;
+    width: 150px; 
     height: 50px;
 }
 
